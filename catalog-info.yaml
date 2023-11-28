@@ -3,9 +3,9 @@ kind: Component
 metadata:
   name: myproject
   spaceId: Spaces-42
-  annotations: 
-    octopus/name': 'test',
-    octopus/space-id: 'spaces-32'
+  annotations:
+    backstage.io/view-url: https://some.website/catalog-info.yaml
+    backstage.io/edit-url: https://github.com/my-org/catalog/edit/master/my-service.jsonnet
 spec:
   lifecycle: production
   owner: my-team
