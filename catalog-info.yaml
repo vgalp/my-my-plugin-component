@@ -5,6 +5,7 @@ metadata:
   annotations:
     backstage.io/view-url: https://some.website/catalog-info.yaml
     backstage.io/edit-url: https://github.com/my-org/catalog/edit/master/my-service.jsonnet
+    octopus/name: test
 spec:
   lifecycle: production
   owner: my-team
