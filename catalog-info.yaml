@@ -1,11 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: myproject
-  spaceId: Spaces-42
-  annotations:
-    backstage.io/view-url: https://some.website/catalog-info.yaml
-    backstage.io/edit-url: https://github.com/my-org/catalog/edit/master/my-service.jsonnet
+  name: my-my-plugin-component
 spec:
   lifecycle: production
   owner: my-team
