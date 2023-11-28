@@ -3,6 +3,10 @@ kind: Component
 metadata:
   name: myproject
   spaceId: Spaces-42
+  annotations: {
+    octopus/name': 'test',
+    octopus/space-id: 'spaces-32'
+  }
 spec:
   lifecycle: production
   owner: my-team
