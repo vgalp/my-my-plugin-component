@@ -7,8 +7,6 @@ metadata:
     backstage.io/edit-url: https://github.com/my-org/catalog/edit/master/my-service.jsonnet
     octopus/name: test
     octopus/space-id: test
-
-    
 spec:
   lifecycle: production
   owner: my-team
