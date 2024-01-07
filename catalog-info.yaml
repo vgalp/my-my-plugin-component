@@ -5,6 +5,7 @@ metadata:
     backstage.io/kubernetes-id: my-kubernetes-component
     description: my special description
   name: my-kubernetes-component
+  description: my special description
 spec:
   lifecycle: production
   owner: my-team
