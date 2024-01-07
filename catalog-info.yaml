@@ -8,6 +8,6 @@ metadata:
   description: my special description
 spec:
   lifecycle: production
-  owner: my-team
+  owner: guests
   type: service
   system: my-cool-system
