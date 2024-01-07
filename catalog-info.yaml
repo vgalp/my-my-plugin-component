@@ -3,6 +3,7 @@ kind: Component
 metadata:
   annotations:
     backstage.io/kubernetes-id: my-kubernetes-component
+    description: my special description
   name: my-kubernetes-component
 spec:
   lifecycle: production
