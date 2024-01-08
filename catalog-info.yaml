@@ -13,4 +13,3 @@ spec:
   lifecycle: production
   owner: user:default/guests
   type: service
-  system: my-cool-system
