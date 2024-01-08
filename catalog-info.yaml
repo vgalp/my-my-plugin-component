@@ -6,6 +6,9 @@ metadata:
     description: my special description
   name: my-kubernetes-component
   description: my special description
+  tags:
+    - tag1
+    - tag2
 spec:
   lifecycle: production
   owner: user:default/guests
